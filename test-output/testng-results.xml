@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-26T19:15:46 IST" name="Default suite" finished-at="2024-11-26T19:16:39 IST" duration-ms="53063">
+    <groups>
+    </groups>
+    <test started-at="2024-11-26T19:15:46 IST" name="Default test" finished-at="2024-11-26T19:16:39 IST" duration-ms="53063">
+      <class name="automation.FitPeoAutomation">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:automation.FitPeoAutomation@3eb25e1a]" started-at="2024-11-26T19:15:46 IST" name="setUp" finished-at="2024-11-26T19:15:49 IST" duration-ms="2492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="navigateToHomepage()[pri:1, instance:automation.FitPeoAutomation@3eb25e1a]" started-at="2024-11-26T19:15:49 IST" name="navigateToHomepage" finished-at="2024-11-26T19:15:53 IST" duration-ms="4460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToHomepage -->
+        <test-method signature="navigateToRevenueCalculatorPage()[pri:2, instance:automation.FitPeoAutomation@3eb25e1a]" started-at="2024-11-26T19:15:53 IST" name="navigateToRevenueCalculatorPage" finished-at="2024-11-26T19:15:55 IST" duration-ms="1299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToRevenueCalculatorPage -->
+        <test-method signature="adjustSliderAndUpdateTextField()[pri:3, instance:automation.FitPeoAutomation@3eb25e1a]" started-at="2024-11-26T19:15:55 IST" name="adjustSliderAndUpdateTextField" finished-at="2024-11-26T19:16:29 IST" duration-ms="34220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adjustSliderAndUpdateTextField -->
+        <test-method signature="selectCPTCodesAndValidateReimbursement()[pri:4, instance:automation.FitPeoAutomation@3eb25e1a]" started-at="2024-11-26T19:16:29 IST" name="selectCPTCodesAndValidateReimbursement" finished-at="2024-11-26T19:16:39 IST" duration-ms="10207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectCPTCodesAndValidateReimbursement -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:automation.FitPeoAutomation@3eb25e1a]" started-at="2024-11-26T19:16:39 IST" name="tearDown" finished-at="2024-11-26T19:16:39 IST" duration-ms="314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- automation.FitPeoAutomation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
