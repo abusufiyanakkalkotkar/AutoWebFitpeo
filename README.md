@@ -76,7 +76,7 @@ The script contains the following test cases:
 3. Adjust Slider and Update Text Field: Scrolls down to the slider section, adjusts the slider to the value 820, and validates that the associated text field updates accordingly. Then, it enters the value 560 in the text field and ensures the slider position updates.
 4. Select CPT Codes and Validate Reimbursement: Scrolls down to the CPT codes section, selects specific CPT codes (CPT-99091, CPT-99453, CPT-99454, and CPT-99474), and validates that the Total Recurring Reimbursement is correctly displayed as $110700.
 
-#Code Walkthrough
+# Code Walkthrough
 1. Test Setup (@BeforeClass):
 Initializes the ChromeDriver, maximizes the window, and prepares the driver for testing
 2. Test Case 1: Navigate to Homepage:
